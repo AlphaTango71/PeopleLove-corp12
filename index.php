@@ -137,61 +137,26 @@
             </div>
         </section>
     <footer>
-
-
-<div class="container">
-
-<div style="float:left; padding:10px;">
-        <p class="footer__header">Product</p>
-        <ul class="footer__list">
-                <li class="footer__item"><a href="features.php">Features</a></li>
-                <li class="footer__item"><a href="successes.php">Successes</a></li>
-                <li class="footer__item"><a href="pricing.php">Pricing</a></li>
-        </ul>
-</div>
-
-<div style="footer_column">
-	<p class="footer__header">Company</p>
-	<ul class="footer__list">
-		<li class="footer__item"><a href="about.php">About PeopleLove</a></li>
-		<li class="footer__item"><a href="privacy.php">Privacy Policy</a></li>
-		<li class="footer__item"><a href="terms.php">Terms of Service</a></li>
-	</ul>
-</div>
-
-<div style="float:left; padding:10px;">
-        <p class="footer__header">Extras</p>
-        <ul class="footer__list">
-                <li class="footer__item"><a href="https://itunes.apple.com/us/app/peoplelove/id1292716674?mt=8">iPhone App</a></li>
-                <li class="footer__item"><a href="https://play.google.com/store/apps/details?id=com.peoplelove_mobile">Android App</a></li>
-        </ul>
-</div>
-
-
-</div>
-
-
-
-
-
-
-
-
-	<div class="container">
-
-	<ul class="list-inline">
-		<li style="display: inline;" class="list-inline-item">
-			<a target="_blank" href="https://itunes.apple.com/us/app/peoplelove/id1292716674?mt=8">
-			<img style="height: 40px;" src="img/app-store-badge.svg">
-			</a>
-		</li>
-		<li style="display: inline;" class-"list-inline-item">
-			<a target="_blank" href="https://play.google.com/store/apps/details?id=com.peoplelove_mobile">
-			<img style="height: 40px;" src="img/google-play-badge.svg">
-			</a>
-		</li>
-	</ul>
-
+      <div class="container">
+        <div class="row justify-content-md-center">
+    <div class="col col-lg-2">
+      <h3>Product</h3>
+        <a href="features.php">Features</a>
+        <a href="successes.php">Successes</a>
+        <a href="pricing.php">Pricing</a>
+    </div>
+    <div class="col-md-auto">
+      <h3>Company</h3>
+      <a href="about.php">About PeopleLove</a>
+      <a href="privacy.php">Privacy Policy</a>
+      <a href="terms.php">Terms of Service</a>
+    </div>
+    <div class="col col-lg-2">
+      <h3>Extras</h3>
+      <a href="https://itunes.apple.com/us/app/peoplelove/id1292716674?mt=8">iPhone App</a>
+      <a href="https://play.google.com/store/apps/details?id=com.peoplelove_mobile">Android App</a>
+    </div>
+  </div>
       </div>
     </footer>
 

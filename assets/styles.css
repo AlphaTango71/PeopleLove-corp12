@@ -59,12 +59,26 @@ p {
 .aligned{
   margin-top: 2px;
 }
+h3{
+  font-size: 1em;
+  text-align: center;
+}
 
+footer a {
+  display: block;
+  color: #555;
+  font-size: .7em;
+  font-weight: normal;
+  margin-top: 7px;
+}
 
+footer a:hover{
+  text-decoration: none;
+}
 
-
-
-
+footer{
+  margin-top: 10px;
+}
 
 
 
@@ -76,7 +90,11 @@ section h2 {
     font-size: 50px
 }
 
-
+@media screen and (max-width: 765px) {
+  h3{
+    margin-top: 25px!important;
+  }
+}
 
 
 
