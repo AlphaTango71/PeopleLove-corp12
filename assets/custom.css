@@ -1,0 +1,105 @@
+.price-head-one {
+    position: relative;
+    border: 1px solid #31a7ba;
+    border-radius: 4px 4px 0 0;
+    display: flex;
+    justify-content: center;
+    background-color: #31a7ba;
+    padding: 0;
+}
+
+.price-wrap {
+    padding: 0;
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+#pricing h3 {
+    margin-top: 7px;
+    font-size: 1.3em;
+    font-weight: 500;
+}
+
+#pricing .count {
+    padding: 20px 7px;
+    font-size: 1em;
+    margin: 0;
+}
+
+#pricing b {
+    font-size: 2.3em;
+}
+
+.carousel-inner .carousel-item {
+    width: 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.slider-container-one {
+    position: relative;
+    background-image: url("../img/testimonial/custBg_precisionHawk.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.slider-container-two {
+    position: relative;
+    background-image: url("../img/testimonial/custBg_dito.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#testimonial p {
+    position: relative;
+    padding: 30px 10px 60px 120px;
+    text-align: left;
+    font-size: 1.5em;
+    font-weight: 100;
+    line-height: 1.4em;
+    color: white;
+}
+
+.slider-fit {
+    object-fit: contain;
+}
+
+#testimonial .container.ph {
+    background-image: url("../img/testimonial/PrecisionSlide_full.jpg");
+    display: flex;
+    max-width: 100%;
+    padding: 0;
+}
+
+#testimonial .container.dito {
+    background-image: url("../img/testimonial/DitoSlide_full.jpg");
+    display: flex;
+    max-width: 100%;
+    padding: 0;
+}
+
+#testimonial-mobile {
+    padding: 0;
+    margin: 0;
+}
+
+.bold-text {
+    text-align: left;
+    color: white;
+    font-weight: 900;
+}
+
+@media screen and (max-width:400px) {
+    #testimonial {
+        display: none;
+    }
+}
+
+@media screen and (min-width:401px) {
+    #testimonial-mobile {
+        display: none;
+    }
+}
