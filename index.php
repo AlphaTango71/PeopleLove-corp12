@@ -58,10 +58,10 @@
                 </button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ml-auto">
-                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="features.php">Features</a></li>
-                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="pricing.php">Pricing</a></li>
+                        <li class="nav-item"><a class="nav-link js-scroll-trigger aligned" href="features.php">Features</a></li>
+                        <li class="nav-item"><a class="nav-link js-scroll-trigger aligned" href="pricing.php">Pricing</a></li>
                         <li class="nav-item">
-                            <a class="nav-link js-scroll-trigger" href="https://app.peoplelove.io">Log In</a>
+                            <a class="nav-link js-scroll-trigger aligned" href="https://app.peoplelove.io">Log In</a>
                         </li>
                         <li class="nav-item boxed">
                             <a class="nav-link js-scroll-trigger" href="https://app.peoplelove.io/try">Try For Free</a>
