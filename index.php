@@ -141,18 +141,21 @@
         <div class="row justify-content-md-center">
     <div class="col col-lg-2">
       <h3>Product</h3>
+      <hr />
         <a href="features.php">Features</a>
         <a href="successes.php">Successes</a>
         <a href="pricing.php">Pricing</a>
     </div>
     <div class="col-md-auto">
       <h3>Company</h3>
+      <hr />
       <a href="about.php">About PeopleLove</a>
       <a href="privacy.php">Privacy Policy</a>
       <a href="terms.php">Terms of Service</a>
     </div>
     <div class="col col-lg-2">
       <h3>Extras</h3>
+      <hr />
       <a href="https://itunes.apple.com/us/app/peoplelove/id1292716674?mt=8">iPhone App</a>
       <a href="https://play.google.com/store/apps/details?id=com.peoplelove_mobile">Android App</a>
     </div>

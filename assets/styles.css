@@ -62,8 +62,14 @@ p {
 h3{
   font-size: 1em;
   text-align: center;
+  font-weight: 700!important;
 }
-
+hr{
+max-width: 100px;
+    margin: 7px auto 0;
+    border-width: 1px;
+    border-color: #E39431;
+    }
 footer a {
   display: block;
   color: #555;
@@ -215,8 +221,7 @@ MASTHEAD STYLING
     letter-spacing: -1px;
     -webkit-font-smoothing: antialiased;
 }
-
-header.masthead {
+/* header.masthead {
     position: relative;
     width: 100%;
     padding-top: 125px;
@@ -225,6 +230,17 @@ header.masthead {
     background: url(../img/HeroSection.jpg), #fff;
     background-size: 100%;
     background-position: 50% 90%;
+    background-repeat: no-repeat;
+} */
+header.masthead {
+    position: relative;
+    width: 100%;
+    padding-top: 125px;
+    padding-bottom: 100px;
+    color: #000;
+    background: url(../img/HeroSection.jpg), #fff;
+    background-size: cover;
+    background-position: 50% 50%;
     background-repeat: no-repeat;
 }
 
